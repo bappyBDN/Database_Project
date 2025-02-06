@@ -1,6 +1,6 @@
 # Database_Project
 
-![Project Image]()
+![Project Image](picture/Screenshot 2025-02-07 013026 - Copy.png)
 
 ## Description
 This project is a database system designed for **Fashion World**, a fashion store website. It uses **PHP and MySQL** to manage user authentication, cart functionality, and user profile updates. The system efficiently stores user data, login sessions, and cart items, ensuring smooth e-commerce operations.
